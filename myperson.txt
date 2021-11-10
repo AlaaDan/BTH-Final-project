@@ -1,0 +1,8 @@
+1,Rosita,James,52421,65
+2,Johan,Birnie,979501,110
+3,Adria,Dysart,553649,66
+4,Carline,Deeming,690269,96
+5,Erna,Sleford,884208,61
+6,Nicholas,Romanin,410986,64
+7,Annabell,Hardesty,15573,62
+8,Guinevere,Bandiera,578199,101
